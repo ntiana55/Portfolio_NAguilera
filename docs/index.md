@@ -10,7 +10,7 @@
 
 [Data Preparation](https://github.com/ntiana55/Portfolio_NicoleAguilera/tree/main/DataPrep)
 
-#### [Complete Portfolio](https://github.com/ntiana55/Portfolio_NicoleAguilera)
+#### [GitHub Portfolio](https://github.com/ntiana55/Portfolio_NicoleAguilera)
 
 #### [All projects](https://ntiana55.github.io/Portfolio_NicoleAguilera/page2)
 
