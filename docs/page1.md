@@ -1,6 +1,6 @@
-layout: page
-title: "Contact Me"
-permalink: /contact/
+title: Contact Me
+layout: template
+filename: page1
 
 ### Questions or comments?
 
