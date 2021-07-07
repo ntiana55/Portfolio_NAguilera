@@ -1,4 +1,6 @@
-layout: page title: "Contact Me" permalink: /contact/
+layout: page
+title: "Contact Me"
+permalink: /contact/
 
 ### Questions or comments?
 
