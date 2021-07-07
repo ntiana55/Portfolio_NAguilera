@@ -1,6 +1,4 @@
-title: Contact Me
-layout: template
-filename: page1
+layout: page title: "Contact Me" permalink: /contact/
 
 ### Questions or comments?
 
