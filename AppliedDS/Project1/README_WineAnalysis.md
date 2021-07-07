@@ -1,0 +1,4 @@
+# Project 1 Overview
+
+This project will look at the components of what makes a good red wine. Each variable is a scientific component of wine. The outcomes will determine which variables have the highest impact on wine quality. There are no brands or prices in this dataset. Some of the variables we will be dealing with are alcohol level, residual sugars, quality, sulphates, total sulphur dioxide and volatile acidity. These variables were hypothesized to be a key determinant of wine quality based on each variable's scale. Hopefully, some of these variables will line up in order to tell us which physiochemical properties will make up a good quality wine. No data cleaning will be necessary due to this data set already being clean. All data is numeric. The data set was obtained from Kaggle: 
+https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009?select=winequality-red.csv
