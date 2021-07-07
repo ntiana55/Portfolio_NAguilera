@@ -1,7 +1,3 @@
-layout: page
-title: "Data Science Projects"
-permalink: /BUProjects/
-
 # Nicole's Data Science Projects
 
 [Applied Data Science](https://github.com/ntiana55/Portfolio_NicoleAguilera/tree/main/AppliedDS)
