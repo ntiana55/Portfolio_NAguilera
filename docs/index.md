@@ -11,3 +11,7 @@
 [Predictive Data Analytics](https://github.com/ntiana55/Portfolio_NicoleAguilera/tree/main/PredictiveAnalysis)
 
 [Data Preparation](https://github.com/ntiana55/Portfolio_NicoleAguilera/tree/main/DataPrep)
+
+#### [All projects](https://ntiana55.github.io/Portfolio_NicoleAguilera/page2)
+
+#### [Contact Me](https://ntiana55.github.io/Portfolio_NicoleAguilera/page1)
