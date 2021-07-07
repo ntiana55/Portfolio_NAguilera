@@ -1,7 +1,3 @@
-theme: jekyll-theme-modernist
-title: homepage!
-description: Feel free to browse and view what projects I have been working on! 
-
 # Contact Me
 
 ### Questions or comments?
