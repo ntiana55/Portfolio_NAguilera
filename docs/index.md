@@ -14,4 +14,4 @@
 
 #### [All projects](https://ntiana55.github.io/Portfolio_NicoleAguilera/page2)
 
-#### [Contact Me](https://ntiana55.github.io/Portfolio_NicoleAguilera/page1)
+#### [About Nicole](https://ntiana55.github.io/Portfolio_NicoleAguilera/page1)
