@@ -1,6 +1,5 @@
 # About Nicole Aguilera
 
-**Hometown**: Corona, California\
 **Education**: Bachelor of Arts in Economics with a Minor in Mathematics from California Lutheran University, Class of 2019\
 **Occupation**: Data Analyst at CorVel Corporation\
 **Zodiac Sign**: Virgo\
