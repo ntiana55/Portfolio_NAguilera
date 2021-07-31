@@ -1,6 +1,6 @@
 # Latest Project:
 
-#### [Wine Analysis with Linear Regression - Applied Data Science](https://github.com/ntiana55/Portfolio_NicoleAguilera/tree/main/AppliedDS/Project1)
+#### [Wine Analysis with Linear Regression - Applied Data Science](https://ntiana55.github.io/Portfolio_NicoleAguilera/page3)
 
 ### Other Data Science Projects:
 
